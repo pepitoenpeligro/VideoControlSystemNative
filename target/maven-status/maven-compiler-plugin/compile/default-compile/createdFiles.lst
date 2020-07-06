@@ -1,0 +1,5 @@
+org/ostfalia/encoders/MessageDecoder.class
+org/ostfalia/websockets/ChatSocket.class
+org/ostfalia/encoders/MessageEncoder.class
+org/ostfalia/encoders/Message.class
+org/ostfalia/websockets/MainSocket.class
