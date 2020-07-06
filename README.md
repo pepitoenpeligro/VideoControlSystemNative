@@ -10,8 +10,10 @@ The project consists of a basic video conference and text chat system, developed
 
 
 ## Work Example
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Deployed!")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Calling from OS X to android Device")
+
+
+![alt text](https://user-images.githubusercontent.com/14912971/86584847-d139c080-bf85-11ea-91cd-f9ad17d12939.png "Deployed!")
+![alt text](https://user-images.githubusercontent.com/14912971/86584837-ce3ed000-bf85-11ea-832e-cec1acc10762.png "Calling from OS X to android Device")
 
 ## Usage
 To use it in local mode, just launch the server, running:
