@@ -4,7 +4,7 @@
 
 The project consists of a basic video conference and text chat system, developed in a basic client-server architecture.
 
-1. Based on the <video> tag of the HTML5 standard.
+1. Based on the *video* tag of the HTML5 standard.
 2. Based on **https**.
 3. Real-time data exchange with **WebRTC** (video).
 4. Use of Sockets (TCP, connection-oriented).
