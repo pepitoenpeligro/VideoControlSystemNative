@@ -29,5 +29,3 @@ To use it in local mode, just launch the server, running:
 ```
 And then launch two instances of https://localhost:443
 from Google Chrome or Firefox
-
-### Author: José Antonio Córdoba Gómez
