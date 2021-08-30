@@ -1,15 +1,17 @@
 # Video Control System Native project
 
+![](images/videoConference.png)
+
 The project consists of a basic video conference and text chat system, developed in a basic client-server architecture.
 
 1. Based on the <video> tag of the HTML5 standard.
-2. Based on https.
-3. Real-time data exchange with WebRTC (video).
+2. Based on **https**.
+3. Real-time data exchange with **WebRTC** (video).
 4. Use of Sockets (TCP, connection-oriented).
-5. Using the Quarkus development framework.
+5. Using the **Quarkus** development framework.
 
 
-## Work Example
+### Work Example
 
 
 ![alt text](https://user-images.githubusercontent.com/14912971/86584847-d139c080-bf85-11ea-91cd-f9ad17d12939.png "Deployed!")
@@ -24,4 +26,3 @@ And then launch two instances of https://localhost:443
 from Google Chrome or Firefox
 
 ### Author: José Antonio Córdoba Gómez
-### Email: joseinn@correo.ugr.es
